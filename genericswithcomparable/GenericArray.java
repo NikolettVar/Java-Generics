@@ -1,5 +1,5 @@
 package genericswithcomparable;
-//I just want to add this to github toogit
+//I just try to add some changes to github
 
 public class GenericArray<T extends Comparable<T>> {
 	private T[] data;
